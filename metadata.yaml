@@ -1,0 +1,27 @@
+_repo: When-the-Owl-Cries_40245
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40245-h/images/0-cover.jpg
+creator:
+  author:
+    agent_name: Bartlett, Paul Alexander
+    birthdate: 1909
+    deathdate: 1990
+    gutenberg_agent_id: '40002'
+    url: http://www.gutenberg.org/2009/agents/40002
+description: ''
+gutenberg_issued: '2012-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40245'
+  lccn: '60009265'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Mexico -- History -- Revolution, 1910-1920 -- Fiction'
+- !lcc 'PS'
+title: When the Owl Cries
+url: http://www.gutenberg.org/ebooks/40245
